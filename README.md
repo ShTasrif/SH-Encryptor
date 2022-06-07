@@ -4,7 +4,6 @@
 pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
-pkg install pip2
 git clone https://github.com/ShTasrif/SH-Encryptor
 ```
 
@@ -13,3 +12,14 @@ git clone https://github.com/ShTasrif/SH-Encryptor
 cd SH-Encryptor
 python encryptor.py
 ```
+
+# Install & Run
+```
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pkg install git -y
+git clone https://github.com/ShTasrif/SH-Encryptor
+cd SH-Encryptor
+python encryptor.py
+```
+
